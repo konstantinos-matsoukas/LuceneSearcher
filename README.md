@@ -11,3 +11,7 @@ Select the number of results you want to receive and the type of search (Simple,
 Lastly it also supports specific search in a specific field (Title of article, Place where the event took place,  People mentioned, etc...), either through selecting the appropriate tag , or using it in a search query (e.g place: Texas).
 
 Lastly it also supports the adding or deleting of articles. 
+
+Example: 
+
+![image](https://user-images.githubusercontent.com/108191418/175784111-fa393ca3-5745-4727-b521-ca09d8a68417.png)
